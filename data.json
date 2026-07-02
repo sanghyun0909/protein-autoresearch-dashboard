@@ -63,8 +63,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 9722.873273611069
+    },
+    {
+      "id": 4,
+      "parent": null,
+      "operator": "draft",
+      "family": "structure-flow-matching",
+      "status": "ok",
+      "composite": 0.4221646536459193,
+      "ec": 0.5898527316567306,
+      "go": 0.3617347485057276,
+      "repsp": 0.3149064807752998,
+      "flip": 0.6024116713735493,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10076.77175450325
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T16:05:25Z"
+  "generated_at": "2026-07-02T16:29:54Z"
 }
