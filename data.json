@@ -239,8 +239,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 15289.782608032227
+    },
+    {
+      "id": 15,
+      "parent": null,
+      "operator": "draft",
+      "family": "triangle-pair-track",
+      "status": "ok",
+      "composite": 0.5357682260230284,
+      "ec": 0.6651410747198341,
+      "go": 0.3777636488354698,
+      "repsp": 0.5643999545137816,
+      "flip": 0.4910747105447443,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 16035.809676885605
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T22:08:26Z"
+  "generated_at": "2026-07-02T22:21:03Z"
 }
