@@ -15,8 +15,24 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 22.171064376831055
+    },
+    {
+      "id": 1,
+      "parent": null,
+      "operator": "draft",
+      "family": "structure-best-rq",
+      "status": "ok",
+      "composite": 0.43067298042817237,
+      "ec": 0.6042459754150725,
+      "go": 0.37187405664430856,
+      "repsp": 0.3158989092251362,
+      "flip": 0.43131140876366436,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 5517.393604278564
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T13:42:19Z"
+  "generated_at": "2026-07-02T14:55:20Z"
 }
