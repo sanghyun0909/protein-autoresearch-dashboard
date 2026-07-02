@@ -159,8 +159,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 20131.728785037994
+    },
+    {
+      "id": 10,
+      "parent": null,
+      "operator": "draft",
+      "family": "graph-bootstrap",
+      "status": "ok",
+      "composite": 0.4613488966950025,
+      "ec": 0.6220116615920814,
+      "go": 0.38321770742179767,
+      "repsp": 0.37881732107112825,
+      "flip": 0.4407447866411,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 24196.711966753006
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T19:17:29Z"
+  "generated_at": "2026-07-02T20:25:43Z"
 }
