@@ -287,8 +287,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 7839.008186101913
+    },
+    {
+      "id": 18,
+      "parent": null,
+      "operator": "draft",
+      "family": "structure-electra",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "flip": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 54.37802219390869
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T23:22:12Z"
+  "generated_at": "2026-07-02T23:23:14Z"
 }
