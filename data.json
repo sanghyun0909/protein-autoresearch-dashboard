@@ -111,8 +111,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 10694.098212718964
+    },
+    {
+      "id": 7,
+      "parent": null,
+      "operator": "draft",
+      "family": "evoformer-pair-track",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "flip": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 30.142320156097412
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T17:53:40Z"
+  "generated_at": "2026-07-02T17:54:05Z"
 }
