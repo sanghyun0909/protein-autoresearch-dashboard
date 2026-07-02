@@ -127,8 +127,24 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 30.142320156097412
+    },
+    {
+      "id": 8,
+      "parent": null,
+      "operator": "draft",
+      "family": "structure-vicregl",
+      "status": "ok",
+      "composite": 0.21263232755455333,
+      "ec": 0.1860484607447678,
+      "go": 0.2526575932166506,
+      "repsp": 0.1991909287022417,
+      "flip": 0.5512227342958149,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 11528.147486925125
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T17:54:05Z"
+  "generated_at": "2026-07-02T18:25:55Z"
 }
