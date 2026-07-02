@@ -47,8 +47,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 6617.7944231033325
+    },
+    {
+      "id": 3,
+      "parent": null,
+      "operator": "draft",
+      "family": "occupancy-field",
+      "status": "ok",
+      "composite": 0.4427685392031046,
+      "ec": 0.6413911073819089,
+      "go": 0.3738672437761615,
+      "repsp": 0.31304726645124337,
+      "flip": 0.35830599923435064,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 9722.873273611069
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T15:13:41Z"
+  "generated_at": "2026-07-02T16:05:25Z"
 }
