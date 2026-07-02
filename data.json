@@ -28,11 +28,27 @@
       "repsp": 0.3158989092251362,
       "flip": 0.43131140876366436,
       "kept": true,
-      "pareto": true,
+      "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 5517.393604278564
+    },
+    {
+      "id": 2,
+      "parent": null,
+      "operator": "draft",
+      "family": "geometric-pair-bias",
+      "status": "ok",
+      "composite": 0.547162323345557,
+      "ec": 0.6899606979498406,
+      "go": 0.38804353820099613,
+      "repsp": 0.5634827338858343,
+      "flip": 0.4730834044044062,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 6617.7944231033325
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T14:55:20Z"
+  "generated_at": "2026-07-02T15:13:41Z"
 }
