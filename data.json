@@ -207,8 +207,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 13243.681951522827
+    },
+    {
+      "id": 13,
+      "parent": null,
+      "operator": "draft",
+      "family": "geometric-value-attention",
+      "status": "ok",
+      "composite": 0.5356643263321419,
+      "ec": 0.6517390023306918,
+      "go": 0.37954793724708874,
+      "repsp": 0.575706039418645,
+      "flip": 0.38430665795093616,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 14346.776019096375
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T21:34:21Z"
+  "generated_at": "2026-07-02T21:53:19Z"
 }
