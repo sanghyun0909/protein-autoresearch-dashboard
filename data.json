@@ -175,8 +175,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 24196.711966753006
+    },
+    {
+      "id": 11,
+      "parent": 2,
+      "operator": "improve",
+      "family": "geometric-pair-bias",
+      "status": "ok",
+      "composite": 0.5386610349110135,
+      "ec": 0.676535871855225,
+      "go": 0.38383671867436137,
+      "repsp": 0.555610514203454,
+      "flip": 0.18506476388460558,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 9924.714133262634
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T20:25:43Z"
+  "generated_at": "2026-07-02T21:11:27Z"
 }
