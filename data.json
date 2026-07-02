@@ -223,8 +223,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 14346.776019096375
+    },
+    {
+      "id": 14,
+      "parent": null,
+      "operator": "draft",
+      "family": "egnn-fusion",
+      "status": "ok",
+      "composite": 0.551442737765225,
+      "ec": 0.7194110012744741,
+      "go": 0.39830234526785113,
+      "repsp": 0.5366148667533497,
+      "flip": 0.5116795175647364,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 15289.782608032227
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T21:53:19Z"
+  "generated_at": "2026-07-02T22:08:26Z"
 }
