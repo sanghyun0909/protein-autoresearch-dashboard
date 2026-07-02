@@ -95,8 +95,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 14720.381184339523
+    },
+    {
+      "id": 6,
+      "parent": null,
+      "operator": "draft",
+      "family": "dense-vicreg",
+      "status": "ok",
+      "composite": 0.4049244356132878,
+      "ec": 0.5455097113259846,
+      "go": 0.35722068579305094,
+      "repsp": 0.31204290972082804,
+      "flip": 0.4184078560602972,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10694.098212718964
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T17:28:44Z"
+  "generated_at": "2026-07-02T17:53:40Z"
 }
