@@ -191,8 +191,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 9924.714133262634
+    },
+    {
+      "id": 12,
+      "parent": null,
+      "operator": "draft",
+      "family": "point-transformer-fusion",
+      "status": "ok",
+      "composite": 0.5271849341715551,
+      "ec": 0.6642861027333669,
+      "go": 0.3828552809566563,
+      "repsp": 0.5344134188246421,
+      "flip": 0.5637982971278385,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 13243.681951522827
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T21:11:27Z"
+  "generated_at": "2026-07-02T21:34:21Z"
 }
