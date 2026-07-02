@@ -92,7 +92,7 @@
       "repsp": 0.555965798945445,
       "flip": 0.4559135557184652,
       "kept": true,
-      "pareto": true,
+      "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 14720.381184339523
     },
@@ -303,8 +303,24 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 54.37802219390869
+    },
+    {
+      "id": 19,
+      "parent": 2,
+      "operator": "improve",
+      "family": "geometric-pair-bias",
+      "status": "ok",
+      "composite": 0.5505693551555694,
+      "ec": 0.6978484333826378,
+      "go": 0.39776430450813255,
+      "repsp": 0.5560953275759379,
+      "flip": 0.4156900298548377,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 10984.611855268478
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T23:23:14Z"
+  "generated_at": "2026-07-02T23:28:54Z"
 }
