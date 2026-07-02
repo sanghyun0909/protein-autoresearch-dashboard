@@ -143,8 +143,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 11528.147486925125
+    },
+    {
+      "id": 9,
+      "parent": null,
+      "operator": "draft",
+      "family": "vicregl-structural / local-jepa",
+      "status": "ok",
+      "composite": 0.20261304268397876,
+      "ec": 0.17200914763961034,
+      "go": 0.24795854723768,
+      "repsp": 0.18787143317464594,
+      "flip": 0.526653751373973,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 20131.728785037994
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T18:25:55Z"
+  "generated_at": "2026-07-02T19:17:29Z"
 }
