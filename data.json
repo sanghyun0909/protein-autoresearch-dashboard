@@ -415,8 +415,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 9140.899837255478
+    },
+    {
+      "id": 26,
+      "parent": null,
+      "operator": "draft",
+      "family": "electra-rtd",
+      "status": "ok",
+      "composite": 0.44486219203207983,
+      "ec": 0.6531750042613762,
+      "go": 0.3658699524341866,
+      "repsp": 0.3155416194006765,
+      "flip": 0.40577386428379675,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10513.256408452988
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T01:55:43Z"
+  "generated_at": "2026-07-03T01:56:18Z"
 }
