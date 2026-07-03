@@ -495,8 +495,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 18643.559947013855
+    },
+    {
+      "id": 31,
+      "parent": 19,
+      "operator": "improve",
+      "family": "geometric-fusion",
+      "status": "ok",
+      "composite": 0.5462109399656061,
+      "ec": 0.688857455507334,
+      "go": 0.3868663156369709,
+      "repsp": 0.5629090487525136,
+      "flip": 0.5438699408373051,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 8828.304257631302
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T03:04:09Z"
+  "generated_at": "2026-07-03T04:22:58Z"
 }
