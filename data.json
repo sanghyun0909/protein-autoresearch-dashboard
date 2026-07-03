@@ -527,8 +527,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 7650.871402025223
+    },
+    {
+      "id": 33,
+      "parent": 13,
+      "operator": "improve",
+      "family": "geometric-value-attention",
+      "status": "ok",
+      "composite": 0.5464108660697894,
+      "ec": 0.6815464115491507,
+      "go": 0.3869810110448679,
+      "repsp": 0.5707051756153494,
+      "flip": 0.5501151958170539,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 14197.003965139389
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T04:29:00Z"
+  "generated_at": "2026-07-03T04:44:56Z"
 }
