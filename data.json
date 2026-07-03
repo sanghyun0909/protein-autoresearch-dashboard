@@ -351,8 +351,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 19835.896285295486
+    },
+    {
+      "id": 22,
+      "parent": null,
+      "operator": "draft",
+      "family": "cross-modal-electra (electra-rtd)",
+      "status": "ok",
+      "composite": 0.4673379569007754,
+      "ec": 0.6811514250375185,
+      "go": 0.3794896269630322,
+      "repsp": 0.3413728187017755,
+      "flip": 0.35268624677114413,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 10736.915492296219
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T00:48:12Z"
+  "generated_at": "2026-07-03T01:07:29Z"
 }
