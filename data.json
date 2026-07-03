@@ -399,8 +399,24 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 0.0
+    },
+    {
+      "id": 25,
+      "parent": null,
+      "operator": "draft",
+      "family": "retrieval-distillation",
+      "status": "ok",
+      "composite": 0.46521902124093467,
+      "ec": 0.673712079740943,
+      "go": 0.38537400883502443,
+      "repsp": 0.33657097514683665,
+      "flip": 0.5549368167181362,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 9140.899837255478
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T01:07:33Z"
+  "generated_at": "2026-07-03T01:55:43Z"
 }
