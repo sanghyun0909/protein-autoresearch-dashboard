@@ -220,7 +220,7 @@
       "repsp": 0.575706039418645,
       "flip": 0.38430665795093616,
       "kept": true,
-      "pareto": true,
+      "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 14346.776019096375
     },
@@ -559,8 +559,24 @@
       "pareto": false,
       "tokens": null,
       "runtime_s": 38.35430574417114
+    },
+    {
+      "id": 35,
+      "parent": 14,
+      "operator": "improve",
+      "family": "egnn-fusion",
+      "status": "ok",
+      "composite": 0.5440409289449663,
+      "ec": 0.6759357389983216,
+      "go": 0.38032104290925606,
+      "repsp": 0.575866004927321,
+      "flip": 0.5561078811333344,
+      "kept": true,
+      "pareto": true,
+      "tokens": 3001024512.0,
+      "runtime_s": 19610.707606077194
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T04:45:40Z"
+  "generated_at": "2026-07-03T04:55:51Z"
 }
