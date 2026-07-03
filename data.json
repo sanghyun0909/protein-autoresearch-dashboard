@@ -543,8 +543,24 @@
       "pareto": true,
       "tokens": 3001024512.0,
       "runtime_s": 14197.003965139389
+    },
+    {
+      "id": 34,
+      "parent": null,
+      "operator": "draft",
+      "family": "ibot-self-distillation",
+      "status": "crashed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "flip": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 38.35430574417114
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T04:44:56Z"
+  "generated_at": "2026-07-03T04:45:40Z"
 }
