@@ -511,8 +511,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 8828.304257631302
+    },
+    {
+      "id": 32,
+      "parent": 19,
+      "operator": "improve",
+      "family": "geo-pairbias-egnn-hybrid",
+      "status": "ok",
+      "composite": 0.5244701213896737,
+      "ec": 0.6388112529946619,
+      "go": 0.36639596205574704,
+      "repsp": 0.5682031491186121,
+      "flip": 0.5088049080079212,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 7650.871402025223
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T04:22:58Z"
+  "generated_at": "2026-07-03T04:29:00Z"
 }
