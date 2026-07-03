@@ -335,8 +335,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 5679.745968103409
+    },
+    {
+      "id": 21,
+      "parent": 5,
+      "operator": "improve",
+      "family": "geometry-biased-attention",
+      "status": "ok",
+      "composite": 0.5394454461505336,
+      "ec": 0.6801657359802616,
+      "go": 0.3895674184845075,
+      "repsp": 0.5486031839868315,
+      "flip": 0.5008369630058371,
+      "kept": false,
+      "pareto": false,
+      "tokens": 3001024512.0,
+      "runtime_s": 19835.896285295486
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-02T23:55:49Z"
+  "generated_at": "2026-07-03T00:48:12Z"
 }
