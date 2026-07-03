@@ -367,8 +367,24 @@
       "pareto": false,
       "tokens": 3001024512.0,
       "runtime_s": 10736.915492296219
+    },
+    {
+      "id": 23,
+      "parent": 5,
+      "operator": "improve",
+      "family": "geometry-biased-attention",
+      "status": "smoke_failed",
+      "composite": 0.0,
+      "ec": null,
+      "go": null,
+      "repsp": null,
+      "flip": null,
+      "kept": false,
+      "pareto": false,
+      "tokens": null,
+      "runtime_s": 0.0
     }
   ],
   "anchor": 0.59,
-  "generated_at": "2026-07-03T01:07:29Z"
+  "generated_at": "2026-07-03T01:07:31Z"
 }
